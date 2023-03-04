@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1415" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout-land/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout-land/maps_layout_land.xml" value="0.19973544973544974" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/activity_event.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/activity_main.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/activity_person.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/activity_search.xml" value="0.2046875" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/event_display.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/event_item.xml" value="0.25" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/expandable_list_headings.xml" value="0.1671875" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/fragment_login.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/fragment_map.xml" value="0.18" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/fragment_maps.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/person_item.xml" value="0.23783454987834549" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/layout/settings_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/menu/map_menu.xml" value="0.190234375" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/menu/settings_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/cohen/OneDrive/Documents/School/Spring 2022/CS 240/Projects/FamilyMapClient/app/src/main/res/xml/root_preferences.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

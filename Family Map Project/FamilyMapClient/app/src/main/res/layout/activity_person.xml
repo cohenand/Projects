@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.PersonActivity"
+    android:padding="18dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/PersonFirstName"
+            android:textSize="20dp"
+            android:textColor="@color/black">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/firstNameNoColon">
+
+        </TextView>
+        <View
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="@color/black">
+        </View>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/PersonLastName"
+            android:textSize="20dp"
+            android:textColor="@color/black">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lastNameNoColon">
+
+        </TextView>
+        <View
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="@color/black">
+        </View>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/PersonGender"
+            android:textSize="20dp"
+            android:textColor="@color/black">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/genderNoColon">
+
+        </TextView>
+        <View
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="@color/black">
+        </View>
+
+        <ExpandableListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:indicatorLeft="?android:attr/expandableListPreferredItemIndicatorLeft"
+            android:dividerHeight="0.5dp"
+            android:divider="@android:color/darker_gray"
+            android:id="@+id/PersonExpandable"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            tools:context=".view.PersonActivity"
+            >
+
+        </ExpandableListView>
+
+    </LinearLayout>
+
+</RelativeLayout>
